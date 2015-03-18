@@ -9,17 +9,15 @@
 =published 0
 =author 0
 =translator oval
-=index 0
 =archive 0
-=feed 0
 =comments 0
 =social 0
 
 Les livres numériques ci-dessous sont actuellement disponibles :
 <ul>
-<li><a href="http://perlmaven.com/beginner-perl-maven-e-book">Perl Maven pour débutant</a></li>
-<li><a href="http://perlmaven.com/advanced-perl-maven-e-book">Perl Maven pour utilisateurs avancés</a></li>
+<li><a href="/livre-numerique-perl-maven-pour-debutant">Perl Maven pour débutant</a></li>
+<li><a href="/livre-numerique-perl-maven-pour-utilisateur-avance">Perl Maven pour utilisateurs avancés</a></li>
 <li><a href="/livre-numerique-test-automation-using-perl">Automatisation des tests avec Perl</a></li>
-<li><a href="http://perlmaven.com/perl-maven-livre-de-recettes">Les recettes de Perl Maven</a></li>
+<li><a href="/perl-maven-livre-de-recettes">Les recettes de Perl Maven</a></li>
 </ul>
 

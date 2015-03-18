@@ -1,12 +1,10 @@
 =title Transforming a Perl array using map
-=timestamp 2013-04-25T10:45:56
+=timestamp 2013-04-25T10:45:55
 =indexes map, transform, list, array
 =status show
 =books advanced_book
 =author szabgab
-=index 1
 =archive 1
-=feed 1
 =comments 1
 =social 1
 
@@ -45,8 +43,8 @@ print "@doubles\n";       # 2 4 6 8 10
 
 Sometimes we have a list of values and during the execution of the code
 we need to check if a given value is within this list. We can use
-<a href="/filtering-values-with-perl-grep.html">grep</a> every time, to check if the current
-value is in the list. We can even use the <a href="/filtering-values-with-perl-grep.html">any</a>
+<a href="/filtering-values-with-perl-grep">grep</a> every time, to check if the current
+value is in the list. We can even use the <a href="/filtering-values-with-perl-grep">any</a>
 function from <a href="http://metacpan.org/modules/List::MoreUtils">List::MoreUtils</a>,
 but it can be much more readable and faster if we used a hash for lookup.
 
@@ -84,7 +82,7 @@ In this code we don't really care about the values of the hash elements,
 other than the fact that they should evaluate to true in Perl.
 
 This solution is only interesting if you do repeated look-ups on a large
-set of values. (The exact meaing of "large" might depend on the system.)
+set of values. (The exact meaning of "large" might depend on the system.)
 Otherwise <hl>any</hl> or even <hl>grep</hl> will do it.
 
 As you can see, in this example, for every element in the original array,
@@ -106,7 +104,7 @@ Foo 1 Bar 1 Baz 1
 <h2>Fat arrow</h2>
 
 In case you are wondering <hl>=></hl> is called the <b>fat arrow</b> or <b>fat comma</b>. It basically acts
-as a regular comma <hl>,</hl> with an exectption that is not relevant in our case. (There is a description
+as a regular comma <hl>,</hl> with an exception that is not relevant in our case. (There is a description
 of it in the article about <a href="/perl-hashes">Perl hashes</a>.)
 
 

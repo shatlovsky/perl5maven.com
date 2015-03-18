@@ -1,4 +1,4 @@
-=title la fonction prédéfinie join
+=title La fonction prédéfinie join
 =timestamp 2013-04-19T10:30:05
 =indexes join
 =status show
@@ -6,9 +6,7 @@
 =books beginner_book
 =author szabgab
 =translator oval
-=index 1
 =archive 1
-=feed 1
 =comments 1
 =social 1
 

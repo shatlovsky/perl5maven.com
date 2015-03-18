@@ -1,13 +1,11 @@
-﻿=title 使用内置Perl调试器Using the built-in debugger of Perl
+﻿=title 使用内置Perl调试器
 =timestamp 2013-04-29T19:45:56
 =indexes debugger, -d, debug, screencast
 =status show
 =original using-the-built-in-debugger-of-perl
 =author szabgab
 =translator herolee
-=index 1
 =archive 1
-=feed 1
 =comments 1
 =social 1
 
